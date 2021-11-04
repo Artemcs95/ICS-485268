@@ -1,0 +1,17 @@
+Bikova, 23
+Bondarenko, 22
+Bydishev, 5
+Zvirkovskiy, 20
+Kindratenko, 22
+Krasnyaschikh, 13
+Omelchenko, 22
+Poloviy, 23
+Romanenko, 23
+Ruban, 11
+Sadovskiy, 17
+Tevseev, 15
+Chumak, 20
+Shelestuk, 7
+Yurchenko, 20
+
+abc
